@@ -44,3 +44,6 @@ cornières, tasseau, equerres, boulons, rondelles : 48e
 | Accastillage  |  ?   | 3 | ? | |
 
 Temps de réalisation : 2 humain/jour
+
+## Remerciements
+Le studio de l'homoncule, et Gil du fablab Orange Atalante
